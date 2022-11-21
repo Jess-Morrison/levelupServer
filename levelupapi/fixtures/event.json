@@ -1,0 +1,35 @@
+[
+  {
+      "model": "levelupapi.event",
+      "pk": 1,
+      "fields": {
+        "game" : 1, 
+        "description" : "Get a clue",
+        "date" : "2022-06-22",
+        "time" : "10:00",
+        "organizer": 1
+      }
+  },
+  {
+    "model": "levelupapi.event",
+    "pk": 2,
+    "fields": {
+      "game" : 2, 
+      "description" : "Guess who fool",
+      "date" : "2022-07-02",
+      "time" : "8:00",
+      "organizer": 1
+    }
+},
+{
+  "model": "levelupapi.event",
+  "pk": 3,
+  "fields": {
+    "game" : 3, 
+    "description" : "Mochi Time",
+    "date" : "2022-04-14",
+    "time" : "7:00",
+    "organizer": 1
+  }
+}
+]
